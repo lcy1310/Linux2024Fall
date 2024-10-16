@@ -7,5 +7,5 @@ int main(){
 	char *dst = malloc(10);
 	dst = reverse(dst, src);
 	printf("%s", dst);
-	return 0;
+	return 0; 
 }
